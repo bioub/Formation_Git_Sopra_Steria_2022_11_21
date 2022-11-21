@@ -9,3 +9,6 @@ Formation Git Basique Sopra Steria
 - git status
 - git add
 - git commit
+- git diff
+- git log
+- git stash
