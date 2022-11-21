@@ -12,3 +12,9 @@ Formation Git Basique Sopra Steria
 - git diff
 - git log
 - git stash
+
+## Branches
+
+- git branch
+- git switch
+- git checkout
